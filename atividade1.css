@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+}
+
+main{
+    width: 940px;
+}
+
+form{
+    margin: 40px 0;
+}
+form label, form input{
+    display: block;
+    font-size: 20px;
+    margin: 0px 0px 10px;
+    color: rgb(0, 174, 255);
+}
+
+.enviar:hover{
+    background-color: rgb(255, 0, 0);
+    transform: scale(1.2);
+}
